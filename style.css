@@ -1,6 +1,13 @@
-
+.header {
+    display: flex;
+    top: 0;
+}
 
 a{
     text-decoration: none;
     color: black;
+}
+
+li {
+
 }
